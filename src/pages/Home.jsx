@@ -23,7 +23,7 @@ const Home = () => {
 
     return (
         <div>
-            <h1>Popular Movies</h1>
+            <h1>Pelis Populares</h1>
             <ul>
                 {
                     popularMovies?.map((movie) => (
